@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Roboto', sans-serif !important;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul li p{color: rgba(255, 255, 255, 0.603) !important;}
+.MuiImageList-standard li img{border-radius: 8px !important;}
